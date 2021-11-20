@@ -40,3 +40,22 @@ Type your name and age in the terminal.
 ![02](https://user-images.githubusercontent.com/68536526/141652270-ebf40e01-5839-482b-bc83-60b120c3cdd5.png)
 
 ***
+
+
+
+# Backend + DB
+Assume that MongoDB has already run in localhost. It shows the name and the age stored in MongoDB.
+
+
+## Used Frameworks
+ * Django 3.2.9
+ * MongoDB 5.0.3
+ * Python 3.10.0
+
+
+## Usage
+    python manage.py runserver
+Connect to 'localhost:8000/'.
+
+
+## Screenshots
