@@ -19,11 +19,10 @@ Connect to 'localhost:8000/[name]/[age]'.
 
 
 
-# MongoDB Exercise (Backend)
+# MongoDB Exercise (DB)
 Assume that MongoDB has already run in localhost. This script inserts your name and age into MongoDB Collection.
-
-
-(Database: baedalgeek_test / Collection: Users)
+ * Database name: baedalgeek_test
+ * Collection name: Users
 
 
 ## Used Frameworks
@@ -40,15 +39,4 @@ Type your name and age in the terminal.
 ![01](https://user-images.githubusercontent.com/68536526/141652266-2e868a63-4604-4be4-9792-efe920fd9a30.png)
 ![02](https://user-images.githubusercontent.com/68536526/141652270-ebf40e01-5839-482b-bc83-60b120c3cdd5.png)
 
-***
-
-
-# Flutter Exercise (Frontend)
-In progress . . .
-***
-
-
-
-# FullStack Exercise (Backend+Frontend)
-In progress . . .
 ***
